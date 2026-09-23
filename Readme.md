@@ -6,3 +6,4 @@ Easy to use
 Takes photos and records the victim's screen    
 Run every time the computer is turned on. Not detected by Windows Defender.
                                                                                                                                                                                                                                                                                                                                                 
+#Tutorial                                                                                                                                                                                                                                                                                                                                                        
